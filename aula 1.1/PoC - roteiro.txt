@@ -1,0 +1,36 @@
+Introdução
+Visual: apenas a câmera
+Texto: Olá. Sejam bem-vindos a mais uma aula do curso básico de informática. Hoje, nós vamos aprender sobre como podemos utilizar o google docs para trabalhar colaborativamente de forma remota, sem a necessidade de ficar enviando o arquivo que estamos editando.
+
+Guia
+Visual: tela + câmera ao lado
+Texto:
+Com o nosso navegador aberto, nós vamos clicar no botão de aplicativos do google, no canto superior direito, e abrir o google docs, o processador de textos da google.
+
+Vamos criar um novo documento em branco
+
+Vou inserir um título para o meu documento
+
+E vou escrever algo rapidamente, apenas para não trabalharmos com um documento totalmente vazio
+
+Certo. Para que outras pessoas possam acessar nosso documento, precisamos primeiro compartilhá-lo. Para isso, devemos clicar no botão “Compartilhar”, localizado no canto superior direito. Isso fará com que surja o diálogo de compartilhamento.
+
+Aqui, chegamos a um ponto importante. Existem duas principais formas de se compartilhar um documento. 1: O acesso restrito, que permite apenas que pessoas que foram explicitamente convidadas tenham acesso ao documento. 2: O acesso por qualquer pessoa que possua o link.
+
+Para utilizar o acesso restrito, será necessário inserir o email de cada pessoa a quem eu desejo conceder acesso ao documento. Vou inserir um outro email meu. Note como é possível escolher o tipo de acesso que essa pessoa terá: posso conceder um acesso que a permitirá editar o documento, ou apenas visualizá-lo. Posso, também, inserir uma mensagem de convite a essa pessoa. Aí, é só enviar.
+
+Agora, vou abrir a caixa de entrada do email para o qual eu mandei o convite. Aqui, estou fazendo isso no mesmo computador, mas o procedimento é exatamente o mesmo.
+Então, como podemos ver, eu recebi o email de convite. Para aceitar, basta clicar em “abrir”, e o documento vai ser aberto para a pessoa que você convidou.
+
+Observe que é possível ver as outras pessoas que estão com o documento aberto ao mesmo tempo que você. Podemos também ver qual porção do documento está sendo editada por cada pessoa.
+
+Mostrando agora as visões das duas pessoas ao mesmo tempo, podemos observar que as edições são transmitidas em tempo real para todos que estão com o documento aberto.
+
+
+Agora vou mostrar a outra forma de compartilhar o documento: criando um link de acesso. Dessa forma, eu não preciso saber o email de todas as pessoas com as quais eu quero compartilhar o acesso. Voltando ao diálogo de compartilhamento, sob “Acesso Geral”, basta eu selecionar “Qualquer pessoa com o link”. Novamente, posso escolher o nível de acesso de pessoas que entram pelo o link. Vou selecionar “Editor”. E pronto. Agora, basta copiar o clink e enviá-lo a quem você quiser.
+
+Para mostrar o link em funcionamento, vou abrí-lo em uma guia anônima.
+
+E aqui está! Como podemos ver, agora há três pessoas editando este documento simultaneamente.
+
+Note que o compartilhamento via link não garante a identificação das pessoas que o acessam…
