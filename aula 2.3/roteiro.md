@@ -1,41 +1,36 @@
 # Aula 2.3: Plickers
 
-**Objetivo:** Instruir professores a utilizar o Plickers, aplicativo gamificado que soluciona o problema da infraestrutura (falta de celulares ou conectividade na sala de aula).
-**Duração Estimada:** 7 minutos
+Objetivo: Instruir educadores no uso do Plickers, aplicativo gamificado que não requer celulares ou conectividade para funcionar por parte dos alunos.
+Duração: 7 minutos
 
 ---
 
-## Introdução e Contextualização (1 min)
-* **Visual:** Câmera fechada em close médio do instrutor.
-* **Tópicos de Fala:** Questionamento inicial - "E se meus alunos não tiverem celular na sala? E se a internet da escola cair?". Explicar que aí entra a incrível invenção dos cartões virtuais: o Plickers. Todo o processo precisa de apenas **um** dispositivo (o do professor) e papéis impressos.
+## Introdução e contexto (1 min)
+Imagem: Câmera fechada em close médio do instrutor.
+Fala: Fazer um questionamento simulando um problema muito comum (falta de internet ou não liberação do uso de celulares na sala de aula pelos alunos). Apresentar a dinâmica com papéis do Plickers como a solução.
 
-## Demonstração da plataforma (1.5 min)
-* **Visual:** Site do desenvolvedor (`plickers.com`) e Transição de tela revelando o recurso "Get Plickers Cards".
-* **Ação na Tela:**
-  * Logar na conta Plickers e demonstrar brevemente a interface principal.
-  * Clicar no menu de Ajuda (Help) -> "Get Plickers Cards". Exibir no modo visual um PDF padrão com cartões estilo "*QR Code*".
-  * Explicar oralmente com a imagem do cartão impressa:
-    * "Cada aluno ganha um cartão destes no começo do ano. Cada cartão tem o NÚMERO (1, 2, 3...) correspondente ao nome do aluno e 4 letras nas bordas: **A, B, C e D**."
-    * "Se a resposta da questão for **C**, o aluno aponta a letra C para as luzes (para cima)."
-    * Opcional: mostrar um cartão físico real para a câmera, apontado para diferentes direções.
+## Demonstração do funcionamento (1.5 min)
+Imagem: Site oficial (plickers.com) e transição de tela focada no modelo impresso.
+Ações e foco:
+- Acessar a conta e evidenciar a interface inicial.
+- Abrir a aba Help e "Get Plickers Cards" mostrando o visual do PDF para impressão.
+- Explicar oralmente com a imagem do card na tela: o número é como o aluno vai ser registrado, e os quatro lados A, B, C, D sinalizam para o leitor de telefone celular qual a resposta dada.
 
-## A Criação e Gestão Rápida da Turma (1.5 min)
-* **Visual:** Dashboard Plickers.
-* **Ação na Tela:**
-  * Clicar em "Your Classes" (Suas Turmas) e adicionar uma turma modelo "3º Ano B". Inserir 2 a 3 alunos (ex: João na vaga 1, Maria na vaga 2, Pedro na vaga 3).
-  * Mostrar rapidamente como a lista associa exatamente a numeração do cartão impresso exibido no passo anterior aos alunos na listagem web.
-  * No bloco "Library" (Biblioteca de Perguntas), clicar em "New Set" e adicionar duas perguntas de múltipla escolha rápidas e definir o gabarito. Arrastar a pergunta para a *"Queue"* (Fila de Hoje) da turma "3º B".
+## Criação e gestão de turmas (1.5 min)
+Imagem: Navegação focada no painel principal do Plickers.
+Ações e foco:
+- Clicar em "Your Classes" e adicionar uma nova turma modelo.
+- Cadastrar 3 alunos de exemplo para demonstrar que o aluno "A" sempre estará associado ao papelzinho de número "1".
+- Clicar em New Set pela aba Library e montar de forma enxuta uma pergunta e seu gabarito. Em seguida, enviar essa questão para a turma configurada.
 
-## Escaneamento na Prática (Real-Time Scan) (2.5 min)
-* **Visual:** Tela Dupla de Captura. Câmera focada num smartphone rodando o Plickers (como se fosse da visão sobre os ombros) vs. Interface do sistema rodando a pergunta no Telão do Projetor.
-* **Ação na Tela & Simulação Realística:**
-  * Mostrar como acessar o aplicativo "Plickers" no dispositivo móvel do professor. Sincronizar (tocar) a turma "3º B" no app para reproduzir no telão automático (`plickers.com/nowplaying`).
-  * As questões sobem no telão para os alunos "lerem".
-  * Professor clica no botão redondo central (azul/scan) no app do seu Smartphone.
-  * Demonstrar visualmente a Câmera aberta no cenário do professor enquadrando papéis QR Codes grudados na parede/nas cadeiras (mock up) numa sala, escaneando rapidamente um ou mais deles como a leitura instantânea fosse de "uma só tacada". O professor balança o celular no recinto coletando dados de João, Maria, e os nomes piscando na tela lateral indicando o envio bem-sucedido.
-  * O app informa que 3/3 alunos votaram. Finaliza a tomada e exibe os gráficos gigantes coloridos (correta vermelha X errada verde).
-* **Tópicos de Fala:** Mostrar o poder assustador do rastreio via câmera ao ler dezenas de marcações ao mesmo tempo. 
+## Escaneamento prático (2.5 min)
+Imagem: Tela dupla dividindo a visão da câmera com um celular rodando o aplicativo contra um monitor exibindo a tela projetada aos alunos com a pergunta.
+Ações e foco:
+- Entrar no aplicativo móvil e abrir a turma modelo. A tela auxiliar vai atualizar instantaneamente no site (plickers.com/nowplaying) de fundo.
+- Clicar no botão redondo (scan) e enquadrar a câmera mostrando papéis pendurados simulando alunos em suas classes.
+- A tela do celular mostrará leituras em tempo real validando e pontuando se o indivíduo "levou pontos" exibindo o check ou marcação na foto.
+- Fechar o fluxo apertando o "stop" provando a consolidação estatística automática.
 
-## Encerramento Bloco 2 & Curso (0.5 min)
-* **Visual:** Tela cheia da câmera do professor encerrando.
-* **Tópicos de Fala:** Revisão de curso (Saímos do trabalho de formiga colaborativo síncrono dos ambientes do Docs e partimos à motivação da turma com Quizzes assíncronos e o milagre material de papel e celular único). Agradecimento aos participantes do Curso de Informática Básica. Fim.
+## Encerramento (0.5 min)
+Imagem: Câmera do professor apontada diretamente na tela original cheia.
+Fala: Pontuar o diferencial enorme do avanço em automação num espaço off-line. Fazer a recapitulação dos blocos do curso unindo as inovações em trabalho online contra as inovações em sala de aula de base real presencial. Encerrar a gravação.
